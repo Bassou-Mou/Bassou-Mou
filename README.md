@@ -60,7 +60,7 @@ Passionate about full-stack development, Cloud technologies, and DevOps practice
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 
-
+📚 Education
 **🎓 ENSEEIHT (Centrale Toulouse) - Engineering Degree** (2024-2027)
 - M1 Software Systems in progress
 - Specialization: Full-stack development, DevOps, Software architecture, Networks
@@ -82,7 +82,7 @@ Passionate about full-stack development, Cloud technologies, and DevOps practice
 
 ---
 
-### 🤝 Community Involvement
+###  Community Involvement
 
 **Active Member - ASSCA** *(Amazigh Social, Sports and Cultural Association)*
 - Event coordination and support for international students
