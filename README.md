@@ -104,6 +104,6 @@ Passionate about full-stack development, Cloud technologies, and DevOps practice
 </p>
 
 <p align="center">
-  💼 <strong>Available for internship starting May 2026 and work-study program 2026/2027</strong><br>
+  💼 <strong>Available for internship starting June 2026 and work-study (Alternance) program 2026/2027</strong><br>
   💙 Thanks for visiting my profile! Feel free to explore my projects and reach out!
 </p>
