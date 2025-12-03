@@ -60,7 +60,7 @@ Passionate about full-stack development, Cloud technologies, and DevOps practice
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 
-📚 Education
+### 📚 Education
 **🎓 ENSEEIH, Toulouse - Engineering Degree**
 - M1 Software Systems
 - Specialization: Full-stack development, DevOps, Software architecture, Networks
