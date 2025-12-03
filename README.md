@@ -61,11 +61,11 @@ Passionate about full-stack development, Cloud technologies, and DevOps practice
 
 
 📚 Education
-**🎓 ENSEEIHT (Centrale Toulouse) - Engineering Degree** (2024-2027)
-- M1 Software Systems in progress
+**🎓 ENSEEIH, Toulouse - Engineering Degree**
+- M1 Software Systems
 - Specialization: Full-stack development, DevOps, Software architecture, Networks
 
-**📐 Preparatory Classes MP** - *Centre Moulay Ali Echerif* (2022-2024)
+**📐 Preparatory Classes MP** - *Centre Moulay Ali Echerif Errachidia * 
 - Admitted to ENSEEIHT with strong mathematical foundation
 
 ---
