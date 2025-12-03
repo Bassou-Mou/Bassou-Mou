@@ -4,7 +4,7 @@
 
 Passionate about full-stack development, Cloud technologies, and DevOps practices. Currently in M1 Software Systems at ENSEEIHT (INP Toulouse), I build modern applications with robust architecture and quality software engineering practices.
 
-🔍 **Currently seeking:** 3-4 month internship starting May 2026 + Work-study program 2026/2027
+🔍 **Currently seeking:** 3-4 month internship starting June 2026 + Work-study (Alternance) program 2026/2027
 
 ---
 
