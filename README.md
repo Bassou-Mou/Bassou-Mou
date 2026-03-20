@@ -63,7 +63,7 @@ Passionate about full-stack development, Cloud technologies, and DevOps practice
 - M1 Software Systems
 - Specialization: Full-stack development, DevOps, Software architecture, Networks
 
-**📐 Preparatory Classes MP** - *Centre Moulay Ali Echerif Errachidia * 
+**📐 Preparatory Classes MP** - **Centre Moulay Ali Echerif Errachidia** 
 - Admitted to ENSEEIHT with strong mathematical foundation
 
 ---
@@ -76,16 +76,6 @@ Passionate about full-stack development, Cloud technologies, and DevOps practice
 ✅ **Full-Stack Development** | Java, Angular, React, Node.js, Python  
 ✅ **Monitoring & Observability** | Prometheus, Grafana, Zipkin  
 ✅ **Agile Methodologies** | SCRUM, Sprints, Team collaboration  
-✅ **Languages** | French (native), English (B2 professional)
-
----
-
-###  Community Involvement
-
-**Active Member - ASSCA** *(Amazigh Social, Sports and Cultural Association)*
-- Event coordination and support for international students
-- OMAR OUHSSAIN Scholarship initiative for students with disabilities
-
 ---
 
 ### 📫 Get In Touch
@@ -102,6 +92,6 @@ Passionate about full-stack development, Cloud technologies, and DevOps practice
 </p>
 
 <p align="center">
-  💼 <strong>Available for internship starting June 2026 and work-study (Alternance) program 2026/2027</strong><br>
+  💼 <strong>Available for Alternance program 2026/2027</strong><br>
   💙 Thanks for visiting my profile! Feel free to explore my projects and reach out!
 </p>
