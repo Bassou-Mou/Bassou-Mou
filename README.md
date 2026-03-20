@@ -76,6 +76,7 @@ Passionate about full-stack development, Cloud technologies, and DevOps practice
 ✅ **Full-Stack Development** | Java, Angular, React, Node.js, Python  
 ✅ **Monitoring & Observability** | Prometheus, Grafana, Zipkin  
 ✅ **Agile Methodologies** | SCRUM, Sprints, Team collaboration  
+
 ---
 
 ### 📫 Get In Touch
