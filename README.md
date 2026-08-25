@@ -1,6 +1,6 @@
-### Hi, I'm Bassou 👋
+### Hi, I'm Bassou
 
-🎓 Engineering Student @ENSEEIHT | Software Development & DevOps Engineer @AIFE | AWS Certified
+**Engineering Student @ENSEEIHT** — Software Development & DevOps Engineer @AIFE — AWS Certified
 
 Code is no longer enough; excellence lies in how it is deployed and maintained.
 
@@ -8,4 +8,4 @@ Currently in my final year at ENSEEIHT and AWS certified, I position myself at t
 
 > "Build quality in rather than trying to test quality in."
 
-📫 [LinkedIn](https://www.linkedin.com/in/bassou-mouacha-a00a93204/) · [Portfolio](https://guileless-pudding-35d75d.netlify.app/) · bassou.mouacha@etu.inp-n7.fr
+[LinkedIn](https://www.linkedin.com/in/bassou-mouacha-a00a93204/) · [Portfolio](https://guileless-pudding-35d75d.netlify.app/) · bassou.mouacha@etu.inp-n7.fr
