@@ -15,7 +15,6 @@ Currently in my final year at ENSEEIHT and AWS certified, I position myself at t
 [LinkedIn](https://www.linkedin.com/in/bassou-mouacha-a00a93204/) · [Portfolio](https://guileless-pudding-35d75d.netlify.app/) · bassou.mouacha@etu.inp-n7.fr
 
 <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="70" alt="AWS Certified Cloud Practitioner" />
-<img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner badge" />
 
 </td>
 <td width="40%">
