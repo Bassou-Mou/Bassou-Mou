@@ -10,9 +10,9 @@ Code is no longer enough; excellence lies in how it is deployed and maintained.
 
 Currently in my final year at ENSEEIHT and AWS certified, I position myself at the intersection of application development and operational efficiency — from securing identities with Keycloak to shipping resilient infrastructure on Kubernetes and AWS. My approach is based on a deep conviction, essential to any modern software lifecycle:
 
-> "Build quality in rather than trying to test quality in."
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=3000&color=4169E1&center=false&vCenter=true&width=550&height=30&italic=true&lines=%22Build+quality+in+rather+than+trying+to+test+quality+in.%22" alt="Quote" />
 
-[LinkedIn](https://www.linkedin.com/in/bassou-mouacha-a00a93204/) 
+[LinkedIn](https://www.linkedin.com/in/bassou-mouacha-a00a93204/) · [Portfolio](https://guileless-pudding-35d75d.netlify.app/) · bassou.mouacha@etu.inp-n7.fr
 
 <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="70" alt="AWS Certified Cloud Practitioner" />
 <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner badge" />
