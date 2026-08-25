@@ -8,7 +8,7 @@
 
 Code is no longer enough; excellence lies in how it is deployed and maintained.
 
-Currently in my final year at ENSEEIHT and AWS certified, I position myself at the intersection of application development and operational efficiency — from securing identities with Keycloak to shipping resilient infrastructure on Kubernetes and AWS. My approach is based on a deep conviction, essential to any modern software lifecycle:
+Currently in my final year at ENSEEIHT and AWS certified, I position myself at the intersection of application development and operational efficiency. My approach is based on a deep conviction, essential to any modern software lifecycle: 
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=3000&color=4169E1&center=false&vCenter=true&width=550&height=30&italic=true&lines=%22Build+quality+in+rather+than+trying+to+test+quality+in.%22" alt="Quote" />
 
