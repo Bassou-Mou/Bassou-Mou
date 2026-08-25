@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=180&section=header&text=Bassou%20Mouacha&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=180&section=header&text=MOUACHA%20Bassou&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=4169E1&center=true&vCenter=true&width=650&lines=Engineering+Student+%40ENSEEIHT;Software+Development+%26+DevOps+Engineer+%40AIFE;AWS+Certified;Code+is+no+longer+enough" alt="Typing SVG" />
 
